@@ -1,4 +1,4 @@
 const endPointObj = {
-    url: 'http://localhost:3001'
+    url: 'http://18.191.30.15:3001'
 };
 export default endPointObj;
